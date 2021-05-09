@@ -1,0 +1,18 @@
+.navLinks {
+    display:flex;
+    flex-direction: row;
+    font-size: small;
+    justify-content: space-evenly;
+}
+.navLinks a{
+    padding: 10px;
+}
+
+a:hover {
+    display: flex;
+    color: aqua;
+}
+
+a:active{
+    color: orange;
+}
